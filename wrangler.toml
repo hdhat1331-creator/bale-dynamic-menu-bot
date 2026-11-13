@@ -1,0 +1,12 @@
+
+name = "bale-dynamic-menu-bot"
+main = "worker.js"
+compatibility_date = "2026-11-13"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "DB"
+id = "a9e27e75f2584709a56df52ccce9507c"
+
+[observability]
+enabled = true
